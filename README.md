@@ -8,8 +8,11 @@ INPUT
 
 
   PROCESS ID
+  
   ARRIVAL ID
+  
   BURST TIME
+  
   PRIORITY
 
 Output
